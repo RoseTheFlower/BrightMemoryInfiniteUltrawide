@@ -6,9 +6,10 @@ The solution addresses the vertical field of view reduction at the cutscenes at 
 
 To uninstall, simply remove or move the files.
 
-Tested on the latest Steam version at 2560x1080 and 3840x1080.
+Tested on the latest Steam version at 2560x1080, 3840x1080 and 5760x1080.
 
 You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
 
 ![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/BrightMemoryInfiniteUltrawide/total?style=flat-square)
+
 ![](preview.jpg)
